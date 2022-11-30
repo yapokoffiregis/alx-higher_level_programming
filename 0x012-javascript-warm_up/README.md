@@ -1,1 +1,0 @@
-Javacript warm up
